@@ -10,66 +10,24 @@ import {
 
 const teamMembers = [
   {
-    name: "Arnav Pandey",
-    image: "arnav.png",
+    name: "Sushrut Pola",
+    image: "sushrut.jpeg",
     position: "President",
-    portfolio: "https://arnavpandey.xyz",
-    instagram: "https://instagram.com/arnavpandey722",
-    linkedin: "https://linkedin.com/in/arnav-pandey-985280227",
+    portfolio: "https://blog.sushrut.dev",
+    linkedin: "https://www.linkedin.com/in/sushrut-pola-b87272369/",
   },
   {
-    name: "Rohan Ramakrishnan",
+    name: "Sahana Nagandla",
     image:
-      "rohan.webp",
-    position: "President",
-    linkedin: "https://linkedin.com/in/rohan-ramakrishnan-7225a9290/",
-  },
-  {
-    name: "Aditya Sahasranam",
-    image:
-      "adi.jpeg",
+      "sahana.jpeg",
     position: "Vice President",
-    portfolio: "https://adityasahas.tech",
-    twitter: "https://twitter.com/adityasahas",
-    instagram: "https://instagram.com/bababooeyacc",
-    linkedin: "https://linkedin.com/in/adityasahas",
   },
   {
-    name: "Srinikesh Kanneluru",
+    name: "Abimanyu Hari",
     image:
-      "kesh.webp",
-    position: "Vice President",
-    linkedin: "https://linkedin.com/in/srinikeshkanneluru",
-  },
-  {
-    name: "Swayam Shah",
-    image:
-      "sway.webp",
-    position: "Secretary",
-    linkedin: "https://linkedin.com/in/swayam-shah-699aa6235",
-  },
-  {
-    name: "Caitelyn Huang ",
-    image:
-      "caitelyn.png",
+      "abo.jpeg",
     position: "Treasurer",
-    instagram: "https://www.instagram.com/caiitelyn/",
-  },
-
-  {
-    name: "Tiffany Zhang",
-    image: "tiff.jpeg",
-    position: "Marketing Manager",
-    instagram: "instagram.com/tiffzhny",
-  },
-
-  {
-    name: "Vivaan Vora",
-    image:
-      "vivian.png",
-    position: "Activities Coordinator",
-    instagram: "https://www.instagram.com/vivaan_vora/",
-    linkedin: "https://linkedin.com/in/vivaan-vora-720410284",
+    linkedin: "https://www.linkedin.com/in/abimanyu-hari-b462b9371/overlay/photo/",
   },
 ];
 
