@@ -10,7 +10,7 @@ function App() {
   const location = useLocation();
 
   if (location.pathname === "/donate") {
-    window.location.href = "https://hcb.hackclub.com/donations/start/cal-commit";
+    window.location.href = "https://hcb.hackclub.com/donations/start/cal-commit-at-california-high-school";
     return null;
   }
 
