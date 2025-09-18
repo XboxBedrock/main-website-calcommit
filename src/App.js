@@ -14,6 +14,11 @@ function App() {
     return null;
   }
 
+  if (location.pathname === "/join") {
+    window.location.href = "https://forms.gle/91z4C2VNWNVbzCS37";
+    return null;
+  }
+
   return (
     <>
       <Navbar />
